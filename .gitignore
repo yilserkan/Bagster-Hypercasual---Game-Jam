@@ -10,6 +10,24 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+/Assets/Animation/
+/Assets/Animations/
+/Assets/Assets/
+/Assets/BOXOPHOBIC/
+/Assets/Images/
+/Assets/Images 1/
+/Assets/Joystick Pack/
+/Assets/Material/
+/Assets/Materials/
+/Assets/Mesh/
+/Assets/Particle/
+/Assets/Plugins/
+/Assets/Prefabs/
+/Assets/Presets/
+/Assets/TextMesh Pro/
+
+/Boxophobic*
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
