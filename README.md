@@ -4,7 +4,7 @@
 This was my first game which i created for a game jam. We created this game with a team of 5 people. It is about a bag which is being thrown in the trash from its owner.
 
 ### Gameplay
-The player has a starting level of 1 in every Level.He can eat bags which have a lower level to increase his/her level. If the player collides with obstacles his/her level will be increased according to the collided obstacle.
+The player has a starting level of 1 in every Level. He can eat bags which have a lower level to increase his/her level. If the player collides with obstacles his/her level will be increased according to the collided obstacle.
 
 ### First Cinematic
 In this cinematic the owner takes two bags and throws one of them into the thrascan. The bag jumps out of the thrashcan and becomes a monster bag.
